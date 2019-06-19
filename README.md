@@ -12,7 +12,7 @@
 
 * **FotoSprint:** catálogo móvil de productos para comprar e imprimir fotos desde el celular. Descarga de [Google Play](https://play.google.com/store/apps/details?id=app.rems.fotosprint)
 
-* **WeChain:** plataforma de recompensas virtual para proyectos que colaboren a cambios sociales. Repositorio en [GitHub](https://github.com/mendoza-com/wechain-androidapp-bicicleta)
+* **WeChain:** plataforma de recompensas virtual para proyectos que colaboran a cambios sociales. Repositorio en [GitHub](https://github.com/mendoza-com/wechain-androidapp-bicicleta)
 
 * **MeCubro:** plataforma para contratación y gestión de seguros para transportes de mercaderías y accidentes personales.
 
@@ -30,7 +30,7 @@
 
 * **Conectate:** pequeña red social para reunir empresas, profesionales, gobierno e interesados sobre Energías Renovables y Eficiencia Energética. App y Api.
 
-* **Infratrack:** servicios para app móvil que usan los agentes de tránsito para realización de infracciones de tránsito manuales en Lanús y Ezeiza. AWS Lambda para impresión de notificaciones y citaciones por infracciones de tránsito
+* **Infratrack:** servicios para app móvil que usan los agentes de tránsito para realización de infracciones de tránsito manuales en Lanús y Ezeiza. AWS Lambda para impresión de notificaciones y citaciones por infracciones de tránsito.
 
 * **CoberMed:** beta para conectar afiliados con obra social.
 
