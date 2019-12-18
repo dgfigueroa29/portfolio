@@ -2,6 +2,14 @@
 # Portfolio de [David Figueroa](https://www.linckard.com/davidfigueroa/0) (Boa Apps)
 ## Portfolio personal de trabajos realizados:
 
+* **Creatuaplicacion:** ajustes en app generadora de apps basada en plantillas configurables. Descarga de [Google Play](https://play.google.com/store/apps/details?id=com.appandweb.creatuaplicacion.generic)
+
+* **Audioguía oficial de Granada:** ajustes en app para información turistica de la ciudad de Granada, España. Descarga de [Google Play](https://play.google.com/store/apps/details?id=com.patrimonioglobalgra.audioguiasgranada)
+
+* **Peep:** ajustes en enciclopedia móvil. Descarga de [Google Play](https://play.google.com/store/apps/details?id=com.appandweb.peep)
+
+* **Padel Manager:** sdk anexo de red social de deportes. Descarga de [Google Play](https://play.google.com/store/apps/details?id=com.padelmanager.padelmanager)
+
 * **Plan Américas:** conecta personas mediante un servicio de tarjetas prepagas para comprar saldo y hablar vía voIP. Descarga de  [Google Play](https://play.google.com/store/apps/details?id=com.planamericas&hl=es)
 
 * **Khub:** prueba de concepto para evaluación técnica. Descarga de [Google Play](https://play.google.com/store/apps/details?id=com.boa.khub). Repositorio en [GitHub](https://github.com/dgfigueroa29/khub)
