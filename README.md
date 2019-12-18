@@ -8,7 +8,7 @@
 
 * **Peep:** ajustes en enciclopedia móvil. Descarga de [Google Play](https://play.google.com/store/apps/details?id=com.appandweb.peep)
 
-* **Padel Manager:** sdk anexo de red social de deportes. Descarga de [Google Play](https://play.google.com/store/apps/details?id=com.padelmanager.padelmanager)
+* **Padel Manager:** SDK anexo de red social de deportes. Descarga de [Google Play](https://play.google.com/store/apps/details?id=com.padelmanager.padelmanager)
 
 * **Plan Américas:** conecta personas mediante un servicio de tarjetas prepagas para comprar saldo y hablar vía voIP. Descarga de  [Google Play](https://play.google.com/store/apps/details?id=com.planamericas&hl=es)
 
