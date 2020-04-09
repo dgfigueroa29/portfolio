@@ -12,7 +12,7 @@
 
 * **Plan Américas:** conecta personas mediante un servicio de tarjetas prepagas para comprar saldo y hablar vía voIP. Descarga de  [Google Play](https://play.google.com/store/apps/details?id=com.planamericas&hl=es)
 
-* **Khub:** prueba de concepto para evaluación técnica. Descarga de [Google Play](https://play.google.com/store/apps/details?id=com.boa.khub). Repositorio en [GitHub](https://github.com/dgfigueroa29/khub)
+* **Khub:** prueba de concepto para evaluación técnica. Descarga de [Google Play](https://play.google.com/store/apps/details?id=com.boa.khub2). Repositorio en [GitHub](https://github.com/dgfigueroa29/khub)
 
 * **Inmoclick:** el mejor camino para encontrar tu próximo hogar. Venta. Venta; Alquiler; Alquiler Temporario; Permuta. Venta, Alquiler, Alquiler Temporario, Permuta. [Google Play](https://play.google.com/store/apps/details?id=com.inmoclick&hl=es-419)
 
