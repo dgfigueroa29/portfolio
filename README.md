@@ -2,6 +2,14 @@
 # Portfolio de [David Figueroa](https://www.linckard.com/davidfigueroa/0) (Boa Apps)
 ## Portfolio personal de trabajos realizados:
 
+* **Watchman:** ajutes en app de seguimiento para seguridad privada.
+
+* **Wtswrng:** ajutes en app de salud que genera diagnóstico de presunción.
+
+* **Librología:** Red social para club de lectores.
+
+* **Fija:** app para relevamiento de domicilios para clientes de servicios digitales.
+
 * **Creatuaplicacion:** ajustes en app generadora de apps basada en plantillas configurables. Descarga de [Google Play](https://play.google.com/store/apps/details?id=com.appandweb.creatuaplicacion.generic)
 
 * **Audioguía oficial de Granada:** ajustes en app para información turistica de la ciudad de Granada, España. Descarga de [Google Play](https://play.google.com/store/apps/details?id=com.patrimonioglobalgra.audioguiasgranada)
