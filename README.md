@@ -1,5 +1,5 @@
 <a name="David Figueroa"></a>
-# Portfolio de [David Figueroa](https://www.linckard.com/davidfigueroa/0) (Boa Apps)
+# Portfolio de [David Figueroa](https://card.linkcard.app/davidfigueroa/0) (Boa Apps)
 ## Portfolio personal de trabajos realizados:
 
 * **Watchman:** ajutes en app de seguimiento para seguridad privada.
