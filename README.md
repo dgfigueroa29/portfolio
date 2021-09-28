@@ -111,7 +111,7 @@
 * **Presenter:** portal para confeccionar presentaciones de publicidades.
 
 <a name="CV"></a>
-## Link actualizable de [CV](https://cvdf.page.link/nM9x)
+## Link actualizable de [CV](https://drive.google.com/file/d/0BznqksLTuwq2NGUxcENwb1ZyZlE/view?resourcekey=0-AQcFCIf1YuX83wdhVq217g)
 
 <a name="here"></a>
 ## Version in English [here](https://github.com/dgfigueroa29/portfolio_en)
