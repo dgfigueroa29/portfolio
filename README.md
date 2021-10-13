@@ -2,6 +2,12 @@
 # Portfolio de [David Figueroa](https://card.linkcard.app/davidfigueroa/0) (Boa Apps)
 ## Portfolio personal de trabajos realizados:
 
+* **Genesis Mobile:** Mantenimiento evolutivo de app Kotlin con MVVM, Koin, CLEAN (segmentado por feature). Se enfoca en la gestión de efectivo y mercancías de conocida empresa global de seguridad y traslado de caudales.
+
+* **DemoScan:** POC sobre librerías de escaneo para códigos de barra y QR. Implementación de Zxing, Quickie y Scandit.
+
+* **Inmoclick2:** Migración de app antipatrón en Java a Kotlin, MVVM, Koin, SOLID, CLEAN.
+
 * **Watchman:** ajutes en app de seguimiento para seguridad privada.
 
 * **Wtswrng:** ajutes en app de salud que genera diagnóstico de presunción.
