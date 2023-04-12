@@ -1,5 +1,5 @@
 <a name="David Figueroa"></a>
-# Portfolio de [David Figueroa](https://card.linkcard.app/davidfigueroa/0) (Boa Apps)
+# Portfolio de [David Figueroa](https://card.linkcard.app/davidfigueroa/0?source=githubes) (Boa Apps)
 ## Portfolio personal de trabajos realizados:
 
 * **Ncuenta/NaranjaX:** Mantenimiento evolutivo de módulo para Onboarding, Biometría y Signup en app Kotlin con compose. Se migró de una billetera virtual a una fintech cumpliendo con los requisitos del BCRA. El equipo se enfoca en validación de identidad (KYC), solicitud, carga y normalización de datos (AML) de los usuarios de la empresa financiera propietaria de marca de tarjeta de crédito.
