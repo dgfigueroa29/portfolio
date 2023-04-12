@@ -2,15 +2,19 @@
 # Portfolio de [David Figueroa](https://card.linkcard.app/davidfigueroa/0) (Boa Apps)
 ## Portfolio personal de trabajos realizados:
 
+* **Ncuenta/NaranjaX:** Mantenimiento evolutivo de módulo para Onboarding, Biometría y Signup en app Kotlin con compose. Se migró de una billetera virtual a una fintech cumpliendo con los requisitos del BCRA. El equipo se enfoca en validación de identidad (KYC), solicitud, carga y normalización de datos (AML) de los usuarios de la empresa financiera propietaria de marca de tarjeta de crédito.
+
 * **Genesis Mobile:** Mantenimiento evolutivo de app Kotlin con MVVM, Koin, CLEAN (segmentado por feature). Se enfoca en la gestión de efectivo y mercancías de conocida empresa global de seguridad y traslado de caudales.
 
-* **DemoScan:** POC sobre librerías de escaneo para códigos de barra y QR. Implementación de Zxing, Quickie y Scandit.
+* **Dynamic:** Próximamente poc en Kotlin, compose, material3 para sistema de diseño y uso de BFF, SDUI.
+
+* **DemoScan:** POC sobre librerías de escaneo para códigos de barra y QR. Implementación de Zxing, Quickie y Scandit. Próximamente incorporación de GmsBarcodeScanning, Vision, TensorFlow.
 
 * **Inmoclick2:** Migración de app antipatrón en Java a Kotlin, MVVM, Koin, SOLID, CLEAN.
 
-* **Watchman:** ajutes en app de seguimiento para seguridad privada.
+* **Watchman:** ajustes en app de seguimiento para seguridad privada.
 
-* **Wtswrng:** ajutes en app de salud que genera diagnóstico de presunción.
+* **Wtswrng:** ajustes en app de salud que genera diagnóstico de presunción.
 
 * **Librología:** Red social para club de lectores.
 
