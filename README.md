@@ -2,6 +2,8 @@
 # Portfolio de [David Figueroa](https://card.linkcard.app/davidfigueroa/0?source=githubes) (Boa Apps)
 ## Portfolio personal de trabajos realizados:
 
+* **Muvin/BCR/AISA:** Mantenimiento y migración tecnologica, arquitectonica y modular de plataforma para gestión logística del agro tanto para porcinos, cereales como fertilizantes. 
+
 * **Ncuenta/NaranjaX:** Mantenimiento evolutivo de módulo para Onboarding, Biometría y Signup en app Kotlin con compose. Se migró de una billetera virtual a una fintech cumpliendo con los requisitos del BCRA. El equipo se enfoca en validación de identidad (KYC), solicitud, carga y normalización de datos (AML) de los usuarios de la empresa financiera propietaria de marca de tarjeta de crédito. Descarga de [Google Play](https://play.google.com/store/apps/details?id=com.tarjetanaranja.ncuenta)
 
 * **Genesis Mobile:** Mantenimiento evolutivo de app Kotlin con MVVM, Koin, CLEAN (segmentado por feature). Se enfoca en la gestión de efectivo y mercancías de conocida empresa global de seguridad y traslado de caudales.
