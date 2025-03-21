@@ -1,5 +1,5 @@
 <a name="David Figueroa"></a>
-# Portfolio de [David Figueroa](https://card.linkcard.app/davidfigueroa/0?source=githubes) (Boa Apps)
+# Portfolio de [David Figueroa](https://davofigueroa.taplink.ws/) (Boa Apps)
 ## Portfolio personal de trabajos realizados:
 
 * **Xsales/Preventa:** Mantenimiento y actualización de aplicaciones privadas para Android con Jetpack Compose. Las apps están orientadas a la gestión de portafolio, pedidos, ordenes, rutas, entregas de productos del grupo Pepsico a su cadena de distribución y asociados.
