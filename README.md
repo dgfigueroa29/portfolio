@@ -2,6 +2,8 @@
 # Portfolio de [David Figueroa](https://card.linkcard.app/davidfigueroa/0?source=githubes) (Boa Apps)
 ## Portfolio personal de trabajos realizados:
 
+* **Xsales/Preventa:** Mantenimiento y actualización de aplicaciones privadas para Android con Jetpack Compose. Las apps están orientadas a la gestión de portafolio, pedidos, ordenes, rutas, entregas de productos del grupo Pepsico a su cadena de distribución y asociados.
+
 * **Signage/Jacidi:** Mantenimiento y actualización de aplicaciones privadas para Android y Google TV. Las apps están orientadas a cadenas de hoteles y gym para mostrar contenidos de una plataforma propia.
 
 * **Muvin/BCR/AISA:** Mantenimiento y migración tecnologica, arquitectonica y modular de plataforma para gestión logística del agro tanto para porcinos, cereales como fertilizantes.
