@@ -6,7 +6,7 @@
 
 Kotlin · Jetpack Compose · KMP · Node.js · AWS · Adopción de IA y agentes
 
-[faro.net.ar](https://faro.net.ar) · [LinkedIn](https://www.linkedin.com/in/davidfigueroa-mentor-faro-android-ia) · [CV](https://faro.net.ar/recursos) · [david@faro.net.ar](mailto:david@faro.net.ar)
+[faro.net.ar](https://faro.net.ar) · [LinkedIn](https://www.linkedin.com/in/david-figueroa-mentor-faro-android-ia) · [CV](https://faro.net.ar/recursos) · [david@faro.net.ar](mailto:david@faro.net.ar)
 
 </div>
 
@@ -46,10 +46,12 @@ Además incorporamos accesibilidad con TalkBack y su equivalente en iOS para aud
 
 ---
 
-### 🏢 Xsales · Grupo Mariposa · 2024–presente
+### 🏢 Xsales · Apex Global Mobility | Grupo Mariposa · 2024–presente
 **Fuerza de ventas para marcas Bia, PepsiCo y asociadas · 9 países · offline first**
 
 Dos aplicaciones que conviven en un mismo monorepo. **Asesor** es la herramienta del vendedor: preventa, gestión de crédito, portafolio, productos, rutas, lealtad y servicios al cliente. **Líder** es la del supervisor que conduce a ese equipo de vendedores, y es el producto del que soy líder técnico desde agosto de 2026.
+
+**Cumplimiento del roadmap por encima del 85% por trimestre**, un nivel que no se sostenía antes, con la operación en campo sin interrupciones.
 
 Vendedores que trabajan en zonas sin señal, sincronizando cuando la encuentran. Todo el diseño gira alrededor de esa restricción.
 
@@ -122,7 +124,7 @@ El trabajo de comparación de librerías que sostiene ese número está publicad
 
 | Producto | Estado | Qué valida |
 |---|---|---|
-| **WhyScan** | Play Store, tentativamente noviembre 2026 | Compose Multiplatform, offline first, accesibilidad y asistencia de agentes de IA. Evoluciona el POC DemoScan sobre Zxing, Quickie y Scandit |
+| **WhyScan** | [Play Store](https://play.google.com/store/apps/details?id=ar.net.faro.whyscan) · publicado | Compose Multiplatform, offline first, accesibilidad y asistencia de agentes de IA. Sin cuenta, sin rastreo, sin telemetría. Evoluciona el POC DemoScan sobre Zxing, Quickie y Scandit |
 | **Dynamic** | POC en curso | Kotlin, Compose y Material3 con BFF y SDUI para sistema de diseño |
 | **Salto Inicial** | [Google Play](https://play.google.com/store/apps/details?id=com.boa.saltoinicial) | Todo el básquet de Mendoza: resultados en vivo, notas y entrevistas |
 | **faro.net.ar** | En producción | Sitio propio en Astro. Código privado |
@@ -133,13 +135,13 @@ El trabajo de comparación de librerías que sostiene ese número está publicad
 
 No son tecnologías que aprendí una vez. Son problemas que vengo resolviendo en organizaciones distintas a lo largo de los años.
 
-**Operación sin conectividad** — Adecoagro 2013, control de acceso a campos rurales con escaneo QR y sincronización diferida · Prosegur 2021, escaneo en logística de valores · Grupo Mariposa 2024, fuerza de ventas en campo con Couchbase Lite · WhyScan 2026.
+**Operación sin conectividad** — Adecoagro 2013, control de acceso a campos rurales con escaneo QR y sincronización diferida · Prosegur 2021, escaneo en logística de valores · Apex Global Mobility | Grupo Mariposa 2024, fuerza de ventas en campo con Couchbase Lite · WhyScan 2026.
 
 **Accesibilidad real** — wtswrng, interfaz sin dependencia de idioma ni alfabetización · NaranjaX, TalkBack y su equivalente en iOS · WhyScan, como objetivo explícito de producto.
 
 **Cumplimiento regulatorio** — norma BCRA en fintech argentina · CE, GDPR y CatSalut en software clínico español.
 
-**Adopción de IA con método** — especificaciones ejecutables, agentes con MCP y verificación de salidas. Comparando estimaciones con y sin asistencia en tres organizaciones, los trabajos se entregaron hasta 40% antes. Se sostiene con modelos económicos: la ganancia viene del método, no del gasto en tokens.
+**Adopción de IA con método** — especificaciones ejecutables, agentes con MCP y verificación de salidas. Comparando estimaciones de entrega con y sin asistencia en tres organizaciones, los trabajos se entregaron hasta 40% antes. La cifra es sobre estimaciones, no sobre throughput medido. Se sostiene con modelos económicos: la ganancia viene del método, no del gasto en tokens.
 
 ---
 
@@ -149,7 +151,7 @@ No son tecnologías que aprendí una vez. Son problemas que vengo resolviendo en
 
 | Años | Organización | Proyectos |
 |---|---|---|
-| 2024– | Grupo Mariposa | Asesor · preventa, crédito, portafolio, rutas y lealtad para vendedores; Líder · supervisión de equipos de venta. Marcas Bia, PepsiCo y asociadas en 9 países |
+| 2024– | Apex Global Mobility \| Grupo Mariposa | Asesor · preventa, crédito, portafolio, rutas y lealtad para vendedores; Líder · supervisión de equipos de venta. Marcas Bia, PepsiCo y asociadas en 9 países |
 | 2023–2024 | Alternativas Inteligentes (hoy SaiLO) | Muvin · Bolsa de Comercio de Rosario |
 | 2021–2023 | NaranjaX | Ncuenta |
 | 2021 | Prosegur, vía Tecsol Group | Genesis Mobile |
@@ -189,10 +191,21 @@ No son tecnologías que aprendí una vez. Son problemas que vengo resolviendo en
 
 ---
 
+## Dónde escribo
+
+Los criterios con los que elijo arquitectura y evalúo código están publicados en abierto:
+
+- [Arquitectura Android 2026: patrones que realmente sostienen](https://faro.net.ar/blog/arquitectura-android-2026)
+- [Cómo evaluar la calidad del código como líder técnico](https://faro.net.ar/blog/calidad-codigo-lideres-tecnicos)
+
+Servicios y casos en [faro.net.ar/portfolio](https://faro.net.ar/portfolio); CV y recursos en [faro.net.ar/recursos](https://faro.net.ar/recursos).
+
+---
+
 ## Trabajemos juntos
 
 Estoy abierto a oportunidades remotas o híbridas desde Mendoza, Argentina, y a proyectos de consultoría a través de FARO.
 
-**[david@faro.net.ar](mailto:david@faro.net.ar)** · **[faro.net.ar](https://faro.net.ar)** · **[LinkedIn](https://www.linkedin.com/in/davidfigueroa-mentor-faro-android-ia)**
+**[david@faro.net.ar](mailto:david@faro.net.ar)** · **[faro.net.ar](https://faro.net.ar)** · **[LinkedIn](https://www.linkedin.com/in/david-figueroa-mentor-faro-android-ia)**
 
-<div align="right"><sub><a href="https://github.com/dgfigueroa29/portfolio_en">English version</a></sub></div>
+<div align="right"><sub>Última revisión: 2026-11 · <a href="https://github.com/dgfigueroa29/portfolio_en">English version</a></sub></div>
