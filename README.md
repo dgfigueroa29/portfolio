@@ -47,19 +47,15 @@ Además incorporamos accesibilidad con TalkBack y su equivalente en iOS para aud
 ---
 
 ### 🏢 Xsales · Apex Global Mobility | Grupo Mariposa · 2024–presente
-**Fuerza de ventas para marcas Bia, PepsiCo y asociadas · 9 países · offline first**
+**Fuerza de ventas para marcas Bia, PepsiCo y asociadas · 9 países · ~600 vendedores activos · ~1000 dispositivos · offline first**
 
-Dos aplicaciones que conviven en un mismo monorepo. **Asesor** es la herramienta del vendedor: preventa, gestión de crédito, portafolio, productos, rutas, lealtad y servicios al cliente. **Líder** es la del supervisor que conduce a ese equipo de vendedores, y es el producto del que soy líder técnico desde agosto de 2026.
+**Problema:** Dos aplicaciones desconectadas (Asesor y Líder) con releases descoordinados, deuda técnica en Realm, y operación de campo sin conectividad que perdía datos al sincronizar.
 
-**Cumplimiento del roadmap por encima del 85% por trimestre**, un nivel que no se sostenía antes, con la operación en campo sin interrupciones.
+**Rol:** Tech Lead de la app **Líder** (supervisión de fuerza de ventas) y responsable de la consolidación técnica del ecosistema. Coordinación Android, arquitectura compartida y adopción de IA en el equipo.
 
-Vendedores que trabajan en zonas sin señal, sincronizando cuando la encuentran. Todo el diseño gira alrededor de esa restricción.
+**Proceso:** Consolidación en monorepo (estimado 2 meses → entregado en 1 mes) definiendo criterios de segregación de módulos compartidos. Sobre esa base se construyó **Líder** como tercera app: la arquitectura no solo unificó lo existente, habilitó un producto nuevo. Migración forzada de Realm a Couchbase Lite por discontinuación del SDK: réplicas, escala, índices, optimización de consultas, drain y caché con Room. Incorporación de Claude, Gemini y Copilot al ciclo de desarrollo.
 
-**Consolidación en monorepo.** Era objetivo clave del período. Se estimó en dos meses y se entregó en uno. Definimos junto al equipo transversal los criterios de segregación de módulos comunes. **Sobre esa base se construyó Líder**, la tercera aplicación del ecosistema: la arquitectura no solo unificó lo existente, habilitó un producto nuevo. El costo real fue sincronizar releases, features y correcciones en curso a través de varias instancias; salió más barato un mecanismo para unificar versiones de librerías comunes sin afectación cruzada.
-
-**Migración de Realm a Couchbase Lite.** Forzada por la discontinuación del SDK. Subestimamos la similitud entre ambos: hubo trabajo real en réplicas, escala, índices, optimización de consultas, drain y caché con Room. La operación en campo no se interrumpió.
-
-**Adopción de IA.** Incorporé Claude, Gemini y Microsoft Copilot al ciclo de desarrollo del equipo.
+**Resultados:** **>85% cumplimiento trimestral del roadmap** (sostenido, no pico), operación en campo sin interrupciones. Monorepo redujo fricción de releases cruzadas. Couchbase Lite eliminó pérdida de datos en sincronización offline.
 
 ---
 
@@ -135,7 +131,7 @@ El trabajo de comparación de librerías que sostiene ese número está publicad
 
 No son tecnologías que aprendí una vez. Son problemas que vengo resolviendo en organizaciones distintas a lo largo de los años.
 
-**Operación sin conectividad** — Adecoagro 2013, control de acceso a campos rurales con escaneo QR y sincronización diferida · Prosegur 2021, escaneo en logística de valores · Apex Global Mobility | Grupo Mariposa 2024, fuerza de ventas en campo con Couchbase Lite · WhyScan 2026.
+**Operación sin conectividad** — Adecoagro 2013, control de acceso a campos rurales con escaneo QR y sincronización diferida · Prosegur 2021, escaneo en logística de valores · Apex Global Mobility | Grupo Mariposa 2024, fuerza de ventas en campo con Couchbase Lite (~600 vendedores, ~1000 dispositivos, 9 países) · WhyScan 2026.
 
 **Accesibilidad real** — wtswrng, interfaz sin dependencia de idioma ni alfabetización · NaranjaX, TalkBack y su equivalente en iOS · WhyScan, como objetivo explícito de producto.
 
@@ -151,7 +147,7 @@ No son tecnologías que aprendí una vez. Son problemas que vengo resolviendo en
 
 | Años | Organización | Proyectos |
 |---|---|---|
-| 2024– | Apex Global Mobility \| Grupo Mariposa | Asesor · preventa, crédito, portafolio, rutas y lealtad para vendedores; Líder · supervisión de equipos de venta. Marcas Bia, PepsiCo y asociadas en 9 países |
+| 2024– | Apex Global Mobility \| Grupo Mariposa | Asesor · preventa, crédito, portafolio, rutas y lealtad para vendedores; Líder · supervisión de equipos de venta. Marcas Bia, PepsiCo y asociadas en 9 países · ~600 vendedores · ~1000 dispositivos |
 | 2023–2024 | Alternativas Inteligentes (hoy SaiLO) | Muvin · Bolsa de Comercio de Rosario |
 | 2021–2023 | NaranjaX | Ncuenta |
 | 2021 | Prosegur, vía Tecsol Group | Genesis Mobile |
@@ -199,6 +195,15 @@ Los criterios con los que elijo arquitectura y evalúo código están publicados
 - [Cómo evaluar la calidad del código como líder técnico](https://faro.net.ar/blog/calidad-codigo-lideres-tecnicos)
 
 Servicios y casos en [faro.net.ar/portfolio](https://faro.net.ar/portfolio); CV y recursos en [faro.net.ar/recursos](https://faro.net.ar/recursos).
+
+---
+
+## 📚 Escritos y recursos
+
+- [Arquitectura Android 2026: patrones que realmente sostienen](https://faro.net.ar/blog/arquitectura-android-2026)
+- [Cómo evaluar la calidad del código como líder técnico](https://faro.net.ar/blog/calidad-codigo-lideres-tecnicos)
+- [Recursos y CV](https://faro.net.ar/recursos)
+- [Storybook del sistema de diseño](https://faro.net.ar/storybook)
 
 ---
 
